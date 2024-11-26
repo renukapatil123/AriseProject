@@ -63,9 +63,6 @@ public class CartTest extends BaseTest {
 		SwagLabCartPage SwagLabCartPage=new SwagLabCartPage(driver);
 		SwagLabCartPage.clickOnCheckout();
 	}
-	@Test
-	public void demo() {
-		System.out.println("demo");
-	}
+	
 	
 }
